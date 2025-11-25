@@ -41,6 +41,9 @@ Collection of templates / examples to give the developer a starting point how co
     - how to implement a interprocess communication between microservices based on REST. The solution is using a declarative REST client (Feign Spring Cloud) to call another microservice.
 - [context](context)
     - how to use user & tenant context in microservices.
+- [ai-agent](ai)
+    - how to integrate Large Language Models (LLMs) with Cumulocity IoT using Spring AI (guardrails, prompt templating, context-stuffing, stateful conversations)
+    - how to enable AI-driven platform actions and insights (LLM tools, device summaries, alarms, time queries)
 
 # Useful links 
 
