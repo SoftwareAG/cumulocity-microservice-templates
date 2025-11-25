@@ -8,4 +8,5 @@ public record DeviceSummary(
         String overallStatus,
         String recommendedAction,
         String summaryText
-) {}
+) {
+}
